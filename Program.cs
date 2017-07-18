@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace SimpleArray
 {
@@ -10,6 +7,12 @@ namespace SimpleArray
     {
         static void Main(string[] args)
         {
+            MyArray my = new MyArray(8);
+
+            MyArray my1 = new MyArray(3,3);
+
+
+            Console.ReadKey();
         }
     }
 }
