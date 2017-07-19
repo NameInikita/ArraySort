@@ -7,9 +7,21 @@ namespace SimpleArray
     {
         static void Main(string[] args)
         {
-            MyArray my = new MyArray(8);
+            MyArray mySimple = new MyArray(8);
+            Console.WriteLine();
+            mySimple.SortSimple();
+            Console.WriteLine();
 
-            MyArray my1 = new MyArray(3,3);
+            Console.WriteLine();
+
+            MyArray myDooble = new MyArray(5,-5);
+            Console.WriteLine("\n"+myDooble.MinDoub());
+            Console.WriteLine();
+            myDooble.Change(myDooble.MinDoub());
+            myDooble.PrintDouble();
+
+
+
 
 
             Console.ReadKey();
