@@ -1,7 +1,0 @@
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\bin\Debug\SimpleArray.exe.config
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\ArraySort.git\bin\Debug\SimpleArray.exe.config
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\ArraySort.git\bin\Debug\SimpleArray.exe
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\ArraySort.git\bin\Debug\SimpleArray.pdb
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\ArraySort.git\obj\Debug\SimpleArray.csprojResolveAssemblyReference.cache
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\ArraySort.git\obj\Debug\SimpleArray.exe
-C:\Users\NameInikita\Documents\GIT\Arrays\Одномерный массив\SimpleArray\ArraySort.git\obj\Debug\SimpleArray.pdb
