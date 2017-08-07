@@ -52,23 +52,6 @@ namespace SimpleArray
             foreach(int elem in arraySimple)
                 Console.Write(elem+ " ");
         }
-        //public void BubleSort(int[] a)
-        //{
-        //    for (int i = 0; i < a.Length; i++)
-        //    {
-        //        for (int j = 0; j < a.Length - i - 1; j++)
-        //        {
-        //            if (a[j] > a[j + 1])
-        //            {
-        //                int tmp = a[j];
-        //                a[j] = a[j + 1];
-        //                a[j + 1] = tmp;
-        //            }
-        //        }
-        //    }
-        //    foreach (int elem in a)
-        //        Console.Write(elem + " ");
-        //}
 
         //поиск всех минимальных значений в двумерном массиве
         public int MinDoub()

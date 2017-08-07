@@ -5,7 +5,7 @@ namespace SimpleArray
 {
     class Program
     {
-        public static void BubleSort(int[] a)
+        public static void BubbleSort(int[] a)
         {
             for (int i = 0; i < a.Length; i++)
             {
@@ -42,7 +42,7 @@ namespace SimpleArray
             foreach(int elem in arr)
                 Console.Write(elem + " ");
             Console.WriteLine();
-            BubleSort(arr);
+            BubbleSort(arr);
 
             Console.ReadKey();
         }
